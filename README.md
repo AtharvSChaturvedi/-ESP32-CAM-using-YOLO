@@ -112,5 +112,5 @@ Anomaly prediction: 0.732
 
 ## License
 
-MIT License — © 2022 EdgeImpulse Inc.  
+MIT License — © 2026 EdgeImpulse Inc.  
 See source file header for full license text.
